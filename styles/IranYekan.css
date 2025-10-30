@@ -1,0 +1,12 @@
+/* IranYekan Font Import */
+@font-face {
+    font-family: 'IranYekan';
+    src: url('../public/fonts/IranYekan.woff2') format('woff2'),
+         url('../public/fonts/IranYekan.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'IranYekan', sans-serif;
+}
